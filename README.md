@@ -2,7 +2,7 @@
 
 - Getting Texts
 - Pre-processing
-- Feature manipulation
+- Feature extraction
 - EDA 
 
 EDA findings:
@@ -22,7 +22,7 @@ EDA findings:
 - Who called whom more
 - Emoji extraction
 - What do we talk about most (Word Cloud)
-- Consecutive words (Bigrams)
+- Consecutive words (Unigrams, Bigrams, Trigrams, Ngrams)
 
 Future work:
 -
